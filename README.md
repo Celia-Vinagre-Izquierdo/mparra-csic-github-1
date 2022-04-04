@@ -11,3 +11,5 @@ collaborate to complete the content.
 - [x] Created repository
 - [x] Updated content
 - [ ] 
+git fetch origin
+git checkout 3-missing-information-in-readme-file
